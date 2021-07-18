@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Daryl Chick
-- 👀 I’m interested in Coding and Game development
-- 🌱 I’m currently learning Unity, C# and Python
-- 💞️ I’m looking to collaborate on Game projects
+- 👋 Hi, I’m Daryl Chick.
+- 👀 I’m interested in Coding and Game development.
+- 🌱 I'm interested in Unity, C#, Python, C++ and Javascript.
+- 💞️ I’m looking to collaborate on Game projects.
 - 📫 chickhld@gmail.com
 
 <!---
