@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Daryl Chick.
-- 👀 I’m interested in Coding and Game development.
-- 🌱 I'm interested in Unity, C#, Python, C++.
-- 💞️ I’m looking to collaborate on Game projects.
+- 👀 I’m interested in Data Science, Fintech, Sports Analytics and Game development.
+- 🌱 I'm interested in C++, Python, C#, Unity
+- 💞️ I’m looking to collaborate on Python projects.
 - 📫 chickhld@gmail.com
 
 <!---
